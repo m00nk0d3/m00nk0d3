@@ -22,13 +22,6 @@
 - **Frontend:** Crafting modern, high-performance interfaces with **Next.js** and **Tailwind CSS**.
 - **Database:** Proficient in **PostgreSQL**, **Redis**, and data modeling.
 - **DevOps:** Containerization with **Docker** and automated CI/CD pipelines.
-
-### 📈 Code Statistics
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m00nk0d3&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m00nk0d3&layout=compact&theme=tokyonight&border_radius=10" />
-</p>
-
 ---
 
 ### 📫 Connect with me
