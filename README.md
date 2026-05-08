@@ -32,4 +32,4 @@
 ---
 
 ### 📫 Connect with me
-[LinkedIn](YOUR_LINK_HERE) | [Portfolio](YOUR_LINK_HERE) | [Email](mailto:your-email@example.com)
+[Email](mailto:admin@moonkode.com)
